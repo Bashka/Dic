@@ -1,0 +1,6 @@
+info - информация о репозитории и git (info,status,diff,log)
+init - инициализация нового репозитория (init,clone)
+index - индексация изменений (add,rm,mv,reset)
+commit - коммит изменений (commit)
+back - движение по коммитам (checkout)
+tag - метки (tag)
