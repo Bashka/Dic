@@ -1,0 +1,13 @@
+move - перемещение указателя (h,j,k,l,e,b,w,W,B,^,$,%,{,},t,f,T,F,/,?,*,;,,)
+edit - добавление, замена и поиск с заменой, cut/copy/paste (i,a,I,A,r,s,R,S,c,C,:s,y,Y,x,d,D,o,O,p,P,:r,gi,u,^r,.,di,da,J)
+macros - определение и использование макросов (q)
+var - переменные (let,unlet,type,string,range,len,insert,remove,sort,reverse,get,index,str2nr,iconv,strlen,strpart,match,matchstr,matchlist,substitute,keys,values,items,has_key,remove,deepcopy,dict)
+for - циклы (for while)
+if - ветвление (if)
+fun - функции (function,delfunction,return,call,range)
+cm - стандартные функции vim (echo,source,line,getpos,cursor,getline,sutline,append,col)
+folding - методы фолдинга текста (indent,expr,syntax,marker,zf,zd,{{{,}}},foldmarker,foldexpr,v:lnum)
+mapping - обработчики горячих клавишь (imap, vmap, cmap)
+file - системные файлы и каталоги (plugin,ftplugin,.vimrc)
+
+links - полезные ссылки в интернете
