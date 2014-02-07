@@ -1,5 +1,5 @@
 move - перемещение указателя (h,j,k,l,e,b,w,W,B,^,$,%,{,},t,f,T,F,/,?,*,;,,)
-edit - добавление, замена и поиск с заменой, cut/copy/paste (i,a,I,A,r,s,R,S,c,C,:s,y,Y,x,d,D,o,O,p,P,:r,gi,u,^r,.,di,da,J)
+edit - добавление, замена и поиск с заменой, cut/copy/paste (i,a,I,A,r,s,R,S,c,C,:s,y,Y,x,d,D,o,O,p,P,:r,gi,u,^r,.,di,da,J,C-p)
 macros - определение и использование макросов (q)
 var - переменные (let,unlet,type,string,range,len,insert,remove,sort,reverse,get,index,str2nr,iconv,strlen,strpart,match,matchstr,matchlist,substitute,keys,values,items,has_key,remove,deepcopy,dict)
 for - циклы (for while)
