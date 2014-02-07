@@ -9,5 +9,6 @@ cm - стандартные функции vim (echo,source,line,getpos,cursor,g
 folding - методы фолдинга текста (indent,expr,syntax,marker,zf,zd,{{{,}}},foldmarker,foldexpr,v:lnum)
 mapping - обработчики горячих клавишь (imap, vmap, cmap)
 file - системные файлы и каталоги (plugin,ftplugin,.vimrc)
+windows - работа с окнами
 
 links - полезные ссылки в интернете

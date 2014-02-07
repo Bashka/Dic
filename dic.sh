@@ -49,7 +49,7 @@ else
     if test -z $comm; then
       clear;
       more $file;
-      echo 'Используйте dic имяСловаря имяРаздела';
+      echo "Используйте dic $component имяРаздела";
 # Вывод команды компоненты.
     else
       clear;
