@@ -6,3 +6,5 @@ back - движение по коммитам (checkout)
 tag - метки (tag)
 branch - управление ветками (master,HEAD,branch,checkout,merge)
 remote - удаленные репозитории (remote,fetch,push,pull)
+
+tutor - рекомендуемый для изучения материал. Порядковый номер в списке определяет уровень знаний обучаемого 
