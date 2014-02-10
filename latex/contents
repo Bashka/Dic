@@ -1,2 +1,6 @@
 install - установка и первоначальная настройка LaTeX
 example - привер исходного файла в формате LaTeX
+document - преамбула и определение документа (documentclass,usepackage,begin,end)
+style - стилизация документа (bfseries,mbseries,slshape,upshape,itshape,begin,end,center)
+param - параметры документа (parindent)
+label - метки и ссылки (label,pageref)
