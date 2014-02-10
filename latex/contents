@@ -4,3 +4,4 @@ document - преамбула и определение документа (docu
 style - стилизация документа (bfseries,mbseries,slshape,upshape,itshape,begin,end,center)
 param - параметры документа (parindent)
 label - метки и ссылки (label,pageref)
+math - математические формулы (ge,le,$,$$,flac,approx,left,right,sqrt)
