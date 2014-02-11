@@ -1,7 +1,9 @@
 install - установка и первоначальная настройка LaTeX
-example - привер исходного файла в формате LaTeX
-document - преамбула и определение документа (documentclass,usepackage,begin,end)
+example - пример исходного файла в формате LaTeX
+document - преамбула и определение документа (documentclass,usepackage,begin,end,input,endinput,include,includeonly)
 style - стилизация документа (bfseries,mbseries,slshape,upshape,itshape,begin,end,center)
 param - параметры документа (parindent)
 label - метки и ссылки (label,pageref)
-math - математические формулы (ge,le,$,$$,flac,approx,left,right,sqrt)
+math - математические формулы (ge,le,$,$$,flac,approx,left,right,sqrt,ldots,cdots,log,sin)
+
+tutor - рекомендуемый для изучения материал. Порядковый номер в списке определяет уровень знаний обучаемого 
