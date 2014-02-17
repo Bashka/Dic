@@ -10,5 +10,6 @@ folding - методы фолдинга текста (indent,expr,syntax,marker,
 mapping - обработчики горячих клавишь (imap, vmap, cmap)
 file - системные файлы и каталоги (plugin,ftplugin,.vimrc)
 windows - работа с окнами
+buffers - работа с буферами (ls,b,bn,bp,bd,sb)
 
 tutor - рекомендуемый для изучения материал. Порядковый номер в списке определяет уровень знаний обучаемого 
