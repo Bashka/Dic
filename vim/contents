@@ -5,7 +5,7 @@ var - переменные (let,unlet,type,string,range,len,insert,remove,sort,r
 for - циклы (for while)
 if - ветвление (if)
 fun - функции (function,delfunction,return,call,range)
-cm - стандартные функции vim (echo,source,line,getpos,cursor,getline,sutline,append,col)
+cm - стандартные функции vim (echo,source,line,getpos,cursor,getline,sutline,append,col,system)
 folding - методы фолдинга текста (indent,expr,syntax,marker,zf,zd,{{{,}}},foldmarker,foldexpr,v:lnum)
 mapping - обработчики горячих клавишь (imap, vmap, cmap)
 file - системные файлы и каталоги (plugin,ftplugin,.vimrc)
