@@ -1,0 +1,5 @@
+IF
+  if ...; then ...; fi - конструкция if
+
+ПЕРЕНАПРАВЛЕНИЕ
+  if test -z $a; then echo 'empty'; else echo 'full'; fi > file - перенаправление всего вывода if в файл
