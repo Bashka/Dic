@@ -1,0 +1,8 @@
+proc - команды препроцессора (include,define,undef,ifdef,ifndef,endif,if,elif,else)
+var - типы данных, переменные и операции над ними
+enum - перечисления
+for - циклы (for,while,do..while)
+if - ветвления (if,switch)
+fun - реализация функций
+lib - стандартные библиотеки языка
+io - работа с потоками ввода-вывода (getchar,putchar,EOF)

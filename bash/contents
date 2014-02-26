@@ -1,6 +1,6 @@
 run - исполнение команд (.,`,&&,||,&,;,(),>,>>,2>,2>&1,1>&2,<,<<,|)
 if - ветвление (if,case)
-for - циклы (for,while,until)
+for - циклы (for,while,until,break,continue)
 meta - метасимволы (*,?,[],{},',")
 args - переменные и аргументы ($,set,shift)
 signal - сигналы (kill,trap)
