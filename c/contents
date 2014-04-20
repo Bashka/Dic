@@ -1,10 +1,10 @@
 proc - команды препроцессора (include,define,undef,ifdef,ifndef,endif,if,elif,else)
-var - типы данных, переменные и операции над ними
-enum - перечисления
-for - циклы (for,while,do..while)
+var - типы данных, переменные и операции над ними (char,int,float,double,array,const,signed,unsigned,short,lond,*,&)
+enum - перечисления (enum)
+for - циклы (for,while,do..while,break,continue)
 if - ветвления (if,switch)
-fun - реализация функций
+fun - реализация функций (return,inline,...,va_list,va_start,va_arg,va_end,operator)
 lib - стандартные библиотеки языка
 io - работа с потоками ввода-вывода
-struct - работа со структурами
-typedef - использование синонимов типов
+struct - работа со структурами (struct,typedef)
+typedef - использование синонимов типов (typedef)

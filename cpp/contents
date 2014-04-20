@@ -1,4 +1,4 @@
-class - классы
-method - методы класса
-prop - свойства класса
-ns - именованные области видимости
+class - классы (class,public,protected,private,friend,template)
+method - методы класса (static,friend,explicit,virtual,using,template)
+prop - свойства класса (static,const,this)
+ns - именованные области видимости (namespace,using)
