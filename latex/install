@@ -1,2 +1,4 @@
 Ubuntu 12.04
-  sudo apt-get install texlive scalable-cyrfonts-tex texlive-lang-cyrillic texlive-doc-ru - установка LaTeX с кирилическими шрифтами и документацией на русском языке
+  sudo apt-get install texlive scalable-cyrfonts-tex texlive-lang-cyrillic texlive-doc-ru texlive-latex-extra - установка LaTeX с кирилическими шрифтами и документацией на русском языке
+  mkdir ~/.texmf-var/tex - создание каталога пользовательских расширений TeX
+  mkdir ~/.texmf-var/tex/latex - создание каталога пользовательских расширений LaTeX

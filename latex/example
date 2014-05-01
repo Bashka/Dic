@@ -5,5 +5,5 @@
 \usepackage[russian,english]{babel}
 
 \begin{document}
-Текст по-русски в кодировке UTF-8.
+  Текст по-русски в кодировке UTF-8.
 \end{document}
