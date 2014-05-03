@@ -1,0 +1,17 @@
+МАРКЕРЫ
+  \begin{itemize}
+    \item Пункт 1
+    \item[маркер] Пункт 2
+  \end{itemize}
+
+НУМЕРАТОРЫ
+  \begin{enumerate}
+    \item Пункт 1
+    \item Пункт 2
+  \end{enumerate}
+
+ОПИСАНИЯ
+  \begin{description}
+    \item[термин] Описание
+    \item[термин] Описание
+  \end{description}
