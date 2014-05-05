@@ -4,6 +4,8 @@ document - преамбула, тело документа и структура
 components - символы и компоненты документа
 style - стилизация документа (bfseries,mbseries,slshape,upshape,itshape,begin,end,center)
 enum - перечисления (itemize,enumerate,description)
+img - изображения
+table - таблицы
 label - метки и ссылки (label,pageref)
 footnote - сноски (footnote)
 rule - линейки (rule,vrule,hrule)

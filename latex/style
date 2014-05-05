@@ -27,7 +27,7 @@
   \textit{...} - курсив
 
   РАЗМЕР
-  \tiny, \scriptsyze, \footnotesize, \small, \normalsize, \large, \Large, \LARGE, \huge, \Huge ... - размер шрифта (от самого маленького до самого большого)
+  \tiny, \scriptsize, \footnotesize, \small, \normalsize, \large, \Large, \LARGE, \huge, \Huge ... - размер шрифта (от самого маленького до самого большого)
 
   РАЗНОЕ
   \underline{...} - подчеркивание

@@ -43,3 +43,26 @@
   \symbol{код} - вставка символа по его коду
   `` ... '' - апострофы
   \textellipsis - троеточие
+
+РАЗДЕЛЫ ДОКУМЕНТА
+  \part[сокращение]{полное наименование} - часть документа (не определено в proc и article классах документа)
+  \chapter[сокращение]{полное наименование} - глава документа (не определено в proc и article классах документа)
+  \section[сокращение]{полное наименование} - раздел документа
+  \subsection[сокращение]{полное наименование} - подраздел документа
+  \subsubsection[сокращение]{полное наименование} - подподраздел документа
+  \paragraph[сокращение]{полное наименование} - параграф документа
+  \subparagraph[сокращение]{полное наименование} - подпараграф документа
+
+  Имена маркеров, используемых при генерации документа (их можно руссифицировать с помощью команды renewcommand)
+  \chaptername     Chapter          Глава
+  \contentsname    Contents         Оглавление (или Содержание)
+  \listfigurename  List of Figures  Список рисунков
+  \listtablename   List of Tables   Список таблиц
+  \abstractname    Abstract         Аннотация
+  \refname         References       Литература
+  \bibname         Bibliography     Литература
+  \indexname       Index            Предметный указатель
+  \figurename      Figure           Рис.
+  \tablename       Table            Таблица
+  \partname        Part             Часть
+  \appendixname    Appendix         Приложение
