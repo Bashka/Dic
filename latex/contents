@@ -10,5 +10,7 @@ label - метки и ссылки (label,pageref)
 footnote - сноски (footnote)
 rule - линейки (rule,vrule,hrule)
 math - математические формулы (ge,le,$,$$,flac,approx,left,right,sqrt,ldots,cdots,log,sin)
+margin - маргиналии (пометки на полях)
+prog - программирование и программные компоненты latex
 
 tutor - рекомендуемый для изучения материал. Порядковый номер в списке определяет уровень знаний обучаемого 
