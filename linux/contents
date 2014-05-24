@@ -1,5 +1,8 @@
-fs - работа с файловой системой (fsck)
-ssh - средства удаленного доступа по протоколу SSH (ssh,scp,ssh-keygen)
-run - средства управления работой компьютера (pm-suspend,pm-hibernate,update-rc.d)
-net_wf - средства для работы с wi-fi сетями ()
+ОБЩЕЕ
 man - документация (man,apropos,whatis)
+run - средства управления работой компьютера (pm-suspend,pm-hibernate,update-rc.d)
+fs - работа с файловой системой (fsck)
+
+ПРИКЛАДНОЕ
+ssh - средства удаленного доступа по протоколу SSH (ssh,scp,ssh-keygen)
+net_wf - средства для работы с wi-fi сетями ()
