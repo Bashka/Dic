@@ -9,8 +9,7 @@
 dic=$HOME'/.dic';
 library=$dic'/library';
 if test ! -d $dic; then
-  mkdir $dic;
-  mkdir $dic'/library/';
+  mkdir -p $dic'/library/';
   cd $dic;
   git clone https://github.com/Bashka/Dic.git library;
 fi
@@ -46,13 +45,12 @@ else
   if test -e $file; then
     comm=$3;
 # Вывод раздела компоненты.
+    clear;
     if test -z $comm; then
-      clear;
       more $file;
       echo "Используйте dic $component имяРаздела";
 # Вывод команды компоненты.
     else
-      clear;
       grep $comm".* - " $file;
     fi
   fi
